@@ -17,7 +17,3 @@ The site is built for small bakeries and pastry shops that need a polished digit
 ## Stack
 
 HTML, CSS, JavaScript
-
-## Live website
-
-https://vladshulga-dev.github.io/morrow-bakehouse/
